@@ -9,3 +9,7 @@ Don't worry, let's build a blog from scratch, and go step by step.
 ## How to
 
 Follow the route, then walk steps by steps, you will know it!
+
+## Extra
+
+This tutorial is based on Arch Linux, things will go slightly different on other Linux distros, Mac or Windows.
